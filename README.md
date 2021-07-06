@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: tanmayr27.github.io
+- 📫 How to reach me: https://tanmayr27.github.io/
 <!--
 **tanmayr27/tanmayr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
